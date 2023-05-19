@@ -1,0 +1,23 @@
+body {
+    background-color:darkorange;
+    color:seashell;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color:rgb(255, 1, 1);
+    border-style: none;
+}
+input {
+    height: 20px;
+}
+
+.image{
+    background-image:url(/assessment/20230119-1607_319d00917ad16e5c496902bd6b3f9784.png);  /* 画像のURLを指定       */
+    background-repeat:  no-repeat;                         /* 画像の繰り返しを指定  */              
+    background-position: center center;                    /* 画像の横・縦の位置を指定*/
+    width:auto;                                            /* 横幅のサイズを指定    */
+    height:400pX;                                           /* 縦幅のサイズを指定    */
+}
